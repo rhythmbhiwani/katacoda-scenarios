@@ -1,15 +1,16 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Kubernetes Playground",
+  "description": "This is Kubernetes Playground",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "20 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "KUBERNETES PLAYGROUND",
       "text": "step1.md"
     }],
     "intro": {
       "text": "intro.md",
+      "code": "startup.sh",
       "credits": ""
     },
     "finish": {
@@ -18,9 +19,9 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mAdHoc Networks Kubernetes Playground\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "minikube"
   }
 }
