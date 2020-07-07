@@ -1,0 +1,26 @@
+{
+  "title": "ckad Playground",
+  "description": "This is ckad Playground",
+  "difficulty": "beginner",
+  "time": "20 minutes",
+  "details": {
+    "steps": [{
+      "title": "ckad PLAYGROUND",
+      "text": "step1.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mAdHoc Networks ckad Playground\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "dockerashu/ckad:v2"
+  }
+}
