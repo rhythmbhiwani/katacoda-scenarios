@@ -10,7 +10,7 @@
     }],
     "intro": {
       "text": "intro.md",
-      "code": "startup.sh"
+      "code": "startup.sh",
       "credits": ""
     },
     "finish": {
