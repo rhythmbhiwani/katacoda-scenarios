@@ -10,6 +10,7 @@
     }],
     "intro": {
       "text": "intro.md",
+      "code": "startup.sh"
       "credits": ""
     },
     "finish": {
@@ -21,6 +22,6 @@
     "uimessage1": "\u001b[32mAdHoc Networks ckad Playground\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "windows"
+    "imageid": "ubuntu"
   }
 }
