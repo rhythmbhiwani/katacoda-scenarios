@@ -1,11 +1,11 @@
 {
-  "title": "ckad Playground",
-  "description": "This is ckad Playground",
+  "title": "Examination Playground",
+  "description": "Examination Playground",
   "difficulty": "beginner",
-  "time": "20 minutes",
+  "time": "3 hours",
   "details": {
     "steps": [{
-      "title": "ckad PLAYGROUND",
+      "title": "Examination Playground",
       "text": "step1.md"
     }],
     "intro": {
@@ -19,7 +19,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mAdHoc Networks ckad Playground\u001b[m\r\n"
+    "uimessage1": "\u001b[32mDelvex Examination Playground\u001b[m\r\n"
   },
   "backend": {
     "imageid": "ubuntu:2004"
