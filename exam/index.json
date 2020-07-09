@@ -14,7 +14,7 @@
         {
           "file": "Rhythm.pem",
           "target": "/tmp/",
-          "chmod": "+r"
+          "chmod": "400"
         }
       ]
     }
