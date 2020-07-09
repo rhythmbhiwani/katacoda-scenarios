@@ -6,7 +6,7 @@
   "details": {
     "steps": [{
       "title": "Examination Playground",
-      "code": "startup.sj",
+      "code": "startup.sh",
       "text": "step1.md"
     }],
     "assets": {
