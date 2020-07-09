@@ -16,7 +16,7 @@
           "chmod": "+r"
         }
       ]
-    },
+    }
   },
   "environment": {
     "uilayout": "terminal",
