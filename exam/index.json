@@ -20,7 +20,7 @@
   "assets": {
     "host01": [{
         "file": "Rhythm.pem",
-        "target": "/tmp/secret/",
+        "target": "/tmp/",
         "chmod": "400"
       }
     ]
