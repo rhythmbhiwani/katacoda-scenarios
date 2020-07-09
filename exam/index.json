@@ -11,19 +11,17 @@
     "intro": {
       "text": "intro.md",
       "code": "startup.sh",
-      "credits": ""
     },
     "finish": {
       "text": "finish.md"
-    }
-  },
-  "assets": {
-    "host01": [{
+    },
+    "assets": {
+      "host01": [{
         "file": "Rhythm.pem",
         "target": "/tmp/",
         "chmod": "400"
-      }
-    ]
+      }]
+    },
   },
   "environment": {
     "uilayout": "terminal",
