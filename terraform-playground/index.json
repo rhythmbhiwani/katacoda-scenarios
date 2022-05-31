@@ -1,0 +1,26 @@
+{
+  "title": "Terraform Playground",
+  "description": "This is Terraform Playground",
+  "difficulty": "beginner",
+  "time": "20 minutes",
+  "details": {
+    "steps": [{
+      "title": "DOCKER PLAYGROUND",
+      "text": "step1.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mAdHoc Networks Terraform Playground\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "terraform"
+  }
+}
