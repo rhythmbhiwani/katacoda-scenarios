@@ -4,23 +4,25 @@
   "difficulty": "beginner",
   "time": "20 minutes",
   "details": {
-    "steps": [{
-      "title": "DOCKER PLAYGROUND",
-      "text": "step1.md"
-    }],
+    "steps": [
+      {
+        "title": "DOCKER PLAYGROUND",
+        "text": "step1.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "",
+      "code": "startup.sh"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "uimessage1": "\u001b[32mAdHoc Networks Terraform Playground\u001b[m\r\n"
+    "uilayout": "vscode-terminal-split"
   },
   "backend": {
-    "imageid": "terraform"
+    "imageid": "ubuntu:1804"
   }
 }
